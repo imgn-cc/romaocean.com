@@ -1,0 +1,10 @@
+*{
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 500px;
+}
+body{
+    background-color: lightgray;
+}
+a{
+    color: navy;
+}
